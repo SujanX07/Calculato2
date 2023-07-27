@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(45deg, #FFD700, #00BFFF);
+}
+.outerdiv{
+    width:200px;
+    background: linear-gradient(45deg, #828074, #9d50c74c);
+    margin: 56px;
+    padding: 59px;
+    border-radius: 20px;
+    border: 999%;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+}
+.cover{
+    
+    border: 209px;
+    width: 999px;
+    height: 499px;
+}
+.key{
+    border: 20px;
+    background-color:rgb(120, 114, 110);
+    color: white;
+    border-radius: px;
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+    
+}
+.key:hover{
+    background-color: #FFD700;
+
+}
